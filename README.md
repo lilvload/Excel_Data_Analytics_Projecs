@@ -8,7 +8,8 @@ You can find it in this folder: [Project_1-Dashboard](Project_1-Dashboard)
 
 
 
-## 2️⃣ Analysis
+## 2️⃣ Data Science Job Analysis
 <img width="1942" height="1201" alt="5_Chart1" src="https://github.com/user-attachments/assets/2f4c37a5-034f-40a3-82bf-67f9628b8b6b" />
 
 You can find it in this folder: [Project_2-Analysis](Project_2-Analysis)
+
