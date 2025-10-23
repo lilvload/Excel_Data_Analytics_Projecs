@@ -1,5 +1,5 @@
 
-# Project 2 Analysis
+# Project 2 Data Science Job Analysis
 
 ## Introduction
 
@@ -179,3 +179,4 @@ It includes detailed information on:
 As a data enthusiast and job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset with real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
 
 I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.
+
